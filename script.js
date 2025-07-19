@@ -281,7 +281,7 @@ function generateRouteSuggestions(from, to) {
                 mode: 'LRT-1 (Recommended)',
                 time: '15-25 minutes',
                 fare: '₱20-50 (₱10-25 students)',
-                description: 'Take LRT-1 from any Manila station to Gil Puyat (Buendia), then walk/jeepney to Makati CBD'
+                description: 'Take LRT-1 from Gil Puyat (Buendia) to any Manila station, then walk/jeepney to final destination in Manila'
             },
             {
                 mode: 'City Bus',
