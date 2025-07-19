@@ -1,0 +1,3 @@
+This is just a SIP (Science Investigatory Project) under Physics. This is not mainly made by me-I used Windsurf to test on building a system like this (All credits to windsurf) I'm interested in building a system like this so I tried any available source online.  also, the map part came from my first work, an html-based work (Using free web tools online). The other datas here are collected online based
+on the personal experience of the commuters.I know this work isn't perfect because I'm still a student and have no 100% knowledge about coding but someday, I hope I would be able to make my own. Thank you!
+topics/tags: metro-manila, transportation, commuters-guide, science-project
