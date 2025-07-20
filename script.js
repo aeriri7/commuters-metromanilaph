@@ -281,7 +281,7 @@ function generateRouteSuggestions(from, to) {
                 mode: 'LRT-1 (Recommended)',
                 time: '15-25 minutes',
                 fare: '₱20-50 (₱10-25 students)',
-                description: 'Take LRT-1  from any Manila station, then walk/jeepney to final destination in Makati (Gil Puyat Station is also nearby in Makati)'
+                description: from === 'manila' ? 'Take LRT-1 from any Manila station, then walk/jeepney to final destination in Makati (Gil Puyat station is also nearby in Makati)' : 'Recommended to take LRT-1 Gil Puyat station, then walk/jeepney to final destination in Manila'
             },
             {
                 mode: 'City Bus',
